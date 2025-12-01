@@ -2,7 +2,7 @@ project(
   'vulkan-headers',
   'c',
   license: 'Apache-2.0',
-  version: '1.3.283',
+  version: '1.4.355',
 )
 
 vulkan_api_xml = files('registry/vk.xml')
